@@ -1,10 +1,11 @@
 # Git tutorial 
 Complete the steps below to learn about cloning, branching, committing, merging, and pushing in git! :octocat:
 
-1. Clone this assignment to your desktop. Then cd into the directory. (Replace with your GitHub username)
+1. Clone this repo to your desktop. Then cd into the directory.
+  * Tip: You can find your repo url by clicking on the green "Clone or download" button on GitHub
 ```bash
-  $ git clone ...
-  $ cd tutorial-<username>
+  $ git clone (paste url here)
+  $ cd (enter your repo name here)
 ```
 2. Create a file called 'last_meal.md'. Go to the Wikipedia page of your favorite food, and copy the first paragraph into it. Use Vim or your favorite text editor.
 ```bash
